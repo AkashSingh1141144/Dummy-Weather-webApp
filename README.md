@@ -1,12 +1,32 @@
-# React + Vite
+# 🌤️ Weatherly – Modern Weather Forecast App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weatherly is a modern, responsive weather forecasting app built with React, Tailwind CSS, Framer Motion, and Recharts.
+It uses the Open-Meteo API to fetch real-time weather data, 5-day forecasts, and hourly temperature trends for any city in the world.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔎 Search by City – Get weather updates for any city
 
-## Expanding the ESLint configuration
+🌡️ Current Weather – Temperature, wind speed, sunrise & sunset
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 5-Day Forecast – Daily min/max temperatures
+
+⏰ Hourly Forecast – Interactive temperature chart (next 12 hours)
+
+⚡ Responsive UI – Works seamlessly across mobile, tablet & desktop
+
+🎨 Smooth Animations – Framer Motion transitions for better UX
+
+📊 Data Visualization – Beautiful charts using Recharts
+
+🛠️ Tech Stack
+
+React.js – Frontend framework
+
+Tailwind CSS – Styling
+
+Framer Motion – Animations
+
+Recharts – Chart visualizations
+
+Open-Meteo API – Weather & geocoding data
